@@ -1,8 +1,8 @@
 {
-  "app_hub_id": "c782611d-73a6-49d8-b252-fe802c0b4d08",
+  "app_hub_id": "r562611d-73a6-49d8-b252-fe802c0b4d89",
   "appType": "APP",
-  "short_name": "approval",
-  "name": "Data Approval",
+  "short_name": "data-approval",
+  "name": "Data Approval App",
   "description": "",
   "version": "100.0.11",
   "core_app": true,

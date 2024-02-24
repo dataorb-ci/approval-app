@@ -1,9 +1,9 @@
 {
   "type": "app",
-  "name": "approval",
-  "title": "Data Approval",
+  "name": "data-approval",
+  "title": "Data Approval App",
   "coreApp": true,
-  "id": "c782611d-73a6-49d8-b252-fe802c0b4d08",
+  "id": "r562611d-73a6-49d8-b252-fe802c0b4d89",
   "minDHIS2Version": "2.37",
   "version": "100.0.11",
   "description": ""
